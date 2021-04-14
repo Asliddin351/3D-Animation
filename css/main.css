@@ -83,7 +83,7 @@ img {
   display: flex;
   align-items: center;
   position: absolute;
-  bottom: 10%;
+  bottom: 12%;
   right: 10%;
   z-index: 88888;
 }
@@ -110,6 +110,7 @@ img {
   bottom: 5%;
   right: 10%;
   z-index: 88888;
+  margin-top: 25px;
 }
 .social .social-menu {
   width: 170px;
